@@ -16,17 +16,33 @@ With a strong foundation in **Molecular Biology (B.Sc)**, **Human Genetics (M.Sc
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-#### **Frameworks & Libraries**  
+#### **AI/ML & NLP**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-000000?logo=python&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?logo=spacy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
+
+#### **Bioinformatics Tools**  
+![BLAST](https://img.shields.io/badge/BLAST-FA7343?logo=blast&logoColor=white)
+![GATK](https://img.shields.io/badge/GATK-000000?logo=broad-institute&logoColor=white)
+![PyMol](https://img.shields.io/badge/PyMol-2A5CAA?logo=pymol&logoColor=white)
+![GROMACS](https://img.shields.io/badge/GROMACS-003A70?logo=gromacs&logoColor=white)
+
+#### **Frameworks & Backend**  
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![PyQT](https://img.shields.io/badge/PyQt-41CD52?logo=qt&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-#### **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+#### **Cloud & DevOps**  
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+
+#### **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ## 🛠️ **Technical Toolkit**  
 
