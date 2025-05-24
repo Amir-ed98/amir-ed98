@@ -71,10 +71,9 @@ With a strong foundation in **Molecular Biology (B.Sc)**, **Human Genetics (M.Sc
 ---
 
 ## 🔥 **GitHub Stats**  
-[![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir-ed98&show_icons=true&theme=radical&hide_border=true)](https://github.com/amir-ed98)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ed98&layout=compact&theme=radical&hide_border=true)](https://github.com/amir-ed98)  
+[![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir-ed98&show_icons=true&theme=radical&hide_border=true)](https://github.com/amir-ed98)    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amir-ed98&theme=radical&hide_border=true)](https://github.com/amir-ed98)  
-
+![Metrics](https://metrics.lecoq.io/amir-ed98?template=terminal&repositories.forks=true&languages=1&repositories=1&repositories.batch=100&repositories.affiliations=owner)
 ---
 
 ## 📚 **Education**  
