@@ -49,7 +49,7 @@ With a strong foundation in **Molecular Biology (B.Sc)**, **Human Genetics (M.Sc
 - **DevOps**: Docker, Kubernetes, GCP, GitHub Actions
 - **Web3**: Web3.py, Alchemy, Moralis    
 
-### **🌐 Frontend & Web3 (Basic)**  
+### **🌐 Frontend (Basic)**  
 - **Frontend**: React.js, HTML/CSS  
 
 ---
